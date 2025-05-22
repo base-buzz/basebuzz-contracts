@@ -1,7 +1,7 @@
 Here is the complete README.md for your basebuzz-contracts repo in Markdown format:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/base-buzz/brand-kit-main/main/assets/logo.svg" alt="BaseBuzz Logo" width="120" />
+  <img src="https://github.com/base-buzz/brand-kit-main/blob/main/logo/symbol/Base_Symbol_Blue.svg" alt="BaseBuzz Logo" width="120" />
 </p>
 
 <h1 align="center">BaseBuzz Smart Contracts</h1>
@@ -27,12 +27,12 @@ These contracts manage:
 
 ## 🧠 Key Contracts
 
-| Contract           | Description                                        |
-|--------------------|----------------------------------------------------|
-| `Token.sol`        | ERC-20 logic with bonding curve pricing            |
-| `Fomo.sol`         | Last-buy-wins and FOMO liquidity event logic       |
-| `MintManager.sol`  | Meme/NFT minting and validation manager            |
-| `BuzzTreasury.sol` | Handles fee routing and reward distribution logic  |
+| Contract           | Description                                       |
+| ------------------ | ------------------------------------------------- |
+| `Token.sol`        | ERC-20 logic with bonding curve pricing           |
+| `Fomo.sol`         | Last-buy-wins and FOMO liquidity event logic      |
+| `MintManager.sol`  | Meme/NFT minting and validation manager           |
+| `BuzzTreasury.sol` | Handles fee routing and reward distribution logic |
 
 > Smart contracts are immutable and fully verified on BaseScan.
 
@@ -72,3 +72,4 @@ MIT — see LICENSE.
 	•	🐦 Twitter
 
 ⸻
+```

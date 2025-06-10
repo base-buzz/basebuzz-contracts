@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/base-buzz/basebuzz/raw/main/assets/basebuzz-logo.png" alt="BaseBuzz Logo" width="200"/>
+  <img src="https://github.com/base-buzz/basebuzz/raw/main/assets/logo.svg" alt="BaseBuzz Logo" width="200"/>
 </p>
 
 <h1 align="center">BaseBuzz Smart Contracts</h1>
